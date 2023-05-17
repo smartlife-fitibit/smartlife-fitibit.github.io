@@ -8,7 +8,7 @@ You have [registered](https://developer.tuya.com/en/docs/iot/tuya-smart-app-smar
 
 ## Create a project
 
-1. Log in to the [Tuya IoT Development Platform](https://iot.tuya.com/).
+1. Log in (or create an account) to the [Tuya IoT Development Platform](https://iot.tuya.com/).
 2. In the left navigation pane, click **Cloud**.
 3. On the page that appears, click **Create Cloud Project**.
 4. In the **Create Cloud Project** dialog, set the required parameters.
